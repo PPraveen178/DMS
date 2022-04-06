@@ -1,0 +1,13 @@
+{
+    "name": "dms/api",
+    "description": "Digital Merchandise System",
+    "authors": [
+        {
+            "name": "Muthu Kumaran",
+            "email": "muthu.kumaran@pqc.co.jp"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+	}
+}
